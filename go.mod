@@ -3,7 +3,6 @@ module consumer
 go 1.18
 
 require (
-	go.buf.build/grpc/go/zfdupont/petapis v1.3.5
 	google.golang.org/grpc v1.47.0
 )
 
