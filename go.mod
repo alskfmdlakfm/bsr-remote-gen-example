@@ -1,4 +1,4 @@
-module consumer
+module bsr-remote-gen-example
 
 go 1.18
 
